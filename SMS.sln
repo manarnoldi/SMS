@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS", "SMS\SMS.csproj", "{1785863E-BC77-4325-A88A-25FEE827206E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Tests", "SMS.Tests\SMS.Tests.csproj", "{DC38F194-8526-4BF0-9616-B7D4A76BD543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1785863E-BC77-4325-A88A-25FEE827206E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1785863E-BC77-4325-A88A-25FEE827206E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1785863E-BC77-4325-A88A-25FEE827206E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1785863E-BC77-4325-A88A-25FEE827206E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC38F194-8526-4BF0-9616-B7D4A76BD543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC38F194-8526-4BF0-9616-B7D4A76BD543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC38F194-8526-4BF0-9616-B7D4A76BD543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC38F194-8526-4BF0-9616-B7D4A76BD543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
